@@ -10,7 +10,7 @@ This CocoaPods library helps you perform calculation.
 
   spec.homepage     = "https://github.com/AdminDevo/VSCalculator"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "jeantimex" => "jean.timex@gmail.com" }
+  spec.author       = { "Devo" => "vikram@yopmail.com" }
 
   spec.ios.deployment_target = "12.1"
   spec.swift_version = "4.2"
